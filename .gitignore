@@ -55,3 +55,4 @@ Makefile
 main.o
 learn2libuv
 l2uv
+.dirstamp
