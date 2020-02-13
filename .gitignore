@@ -50,3 +50,7 @@ m4/lt~obsolete.m4
 Makefile
 
 .vscode/
+
+# My Program
+main.o
+learn2libuv
